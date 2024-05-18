@@ -1,4 +1,5 @@
 """
+    BR was able to receive the second message
     This program listens for work messages contiously. 
     Start multiple versions to add more workers.  
 
